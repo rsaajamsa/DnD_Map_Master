@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <Files>
     <File Name="DnD_Map_Master.exe" Path="DnD_Map_Master.exe" Hash="411c2f7097eb3361bfc988d88ef2ddbc" Main="True">
-        <ChangeNote>
-            <Date Value="18 May 2020"></Date>
+        <ChangeNote Date="18 May 2020">
             <Note>First Upload of file</Note>
             <Note>Just a test of the process</Note>
         </ChangeNote>
