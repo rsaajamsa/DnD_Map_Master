@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
-<File Name="DnD_Map_Master.exe" Path="DND_Map_Master.exe" Version="0.1">
-    <ChangeNote>
-        <Date Value="18 May 2020"></Date>
-        <Note>First Upload of file</Note>
-        <Note>Just a test of the process</Note>
-    </ChangeNote>
-</File>
+<Files>
+    <File Name="DnD_Map_Master.exe" Path="DND_Map_Master.exe" Version="0.1">
+        <ChangeNote>
+            <Date Value="18 May 2020"></Date>
+            <Note>First Upload of file</Note>
+            <Note>Just a test of the process</Note>
+        </ChangeNote>
+    </File>
+</Files>
